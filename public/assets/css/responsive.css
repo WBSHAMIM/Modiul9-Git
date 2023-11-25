@@ -1,0 +1,311 @@
+
+
+
+
+
+
+.closebtn {
+	display: inline;
+	float: right;
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1199px) {
+.feature-in {
+	padding: 30px 20px;
+}
+.plan {
+    font-size: 25px;
+}
+.contact-right {
+    padding: 30px;
+}
+.contact-left {
+    padding: 79px 30px;
+}
+.contact-left {
+    padding: 30px 30px;
+}
+.contact-right-form {
+    padding-top: 0px;
+}
+.contact-right-form .send {
+	margin-bottom: 0px;
+}
+
+
+
+
+
+
+	
+}
+@media only screen and (max-width:991px) {
+.main-menu ul {
+	visibility: hidden;
+}
+.sid-menu {
+	visibility: visible;
+	color: #fff;
+}
+.menu-in {
+	display: inline;
+}
+.sticky-wrapper {
+	height: 70px;
+}
+.main-menu {
+	display: none;
+}
+header {
+	padding: 80px 0px;
+}
+header h2 {
+	font-size: 35px;
+}
+#typed {
+	font-size: 25px;
+}
+.developer {
+	padding-top: 30px;
+	width: 100%;
+}
+.progress-section {
+	padding: 80px 0px;
+}
+.progress-section p {
+    padding-bottom: 40px;
+	width: 100%;
+	margin: 0px auto;
+}
+.about {
+    padding: 80px 0px;
+}
+.about h4 {
+	padding-top: 20px;
+}
+.about-info ul .from {
+	border-top: none;
+	padding-top: 0px;
+}
+.about-social-link {
+	padding-top: 30px;
+}
+.about-social-link .fa-facebook-f {
+	margin-left: 0px;
+}
+.work {
+    padding: 80px 0px;
+}
+.work-layout {
+	margin-bottom: 30px;
+}
+.work-layout-last {
+	margin-bottom: 0px;
+}
+.testimonial {
+    padding: 80px 0px;
+}
+.clients-review {
+	width: 100%;
+}
+.feature {
+    padding: 80px 0px;
+}
+.newsletter {
+    padding: 50px 0px;
+}
+.newsletter p {
+	width: 100%;
+	padding-top: 0px;
+	text-align: center;
+}
+.newsletter form {
+    text-align: left;
+}
+.newsletter-email {
+	position: relative;
+	width: 70%;
+}
+.newsletter-submit {
+	padding-left: 35px;
+	padding-right: 35px;
+	position: absolute;
+	right: 26%;
+}
+.pricing-table {
+	margin-bottom: 30px;
+}
+.pricing-table-last {
+	margin-bottom: 0px;
+}
+.pricing {
+    padding: 80px 0px;
+}
+.contact-part {
+	padding: 80px 0px;
+}
+.contact-left {
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+}
+@media only screen and (max-width:767px) {
+.contact-left {
+	padding-top: 0px;
+}
+.icon-text {
+	padding: 5px
+}
+.mobile-nav-raper {
+	width: 45%;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 991px) and (min-width: 600px) {
+.newsletter-email {
+	position: relative;
+	width: 70%;
+}
+.newsletter-submit {
+	padding-left: 35px;
+	padding-right: 35px;
+	position: absolute;
+	right: 28%;
+}
+}
+@media only screen and (max-width: 599px) and (min-width: 400px) {
+.newsletter-email {
+	position: relative;
+	width: 70%;
+	padding: 8px 30px 8px 8px;
+}
+.newsletter-submit {
+	padding-left: 35px;
+	padding-right: 35px;
+	position: absolute;
+	right: 19%;
+}
+.mobile-nav-raper {
+	width: 50%;
+}
+}
+@media only screen and (max-width: 399px) and (min-width: 350px) {
+.newsletter-email {
+	position: relative;
+	width: 80%;
+	padding: 8px 30px 8px 8px;
+}
+.newsletter-submit {
+	padding-left: 35px;
+	padding-right: 35px;
+	position: absolute;
+	right: 4%;
+}
+.mobile-nav-raper {
+	width: 100%;
+}
+
+
+}
+
+
+
+@media only screen and (max-width:349px) {
+.mobile-nav-raper {
+	width: 100%;
+}
+}
